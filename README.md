@@ -7,7 +7,7 @@ Aplicação full-stack para cadastro, listagem, busca, edição e exclusão de u
 ## 📁 Estrutura do Projeto
 
 ```text
-desafio-tecnico/
+case-desafio-tecnico-devpool/
 ├── backend/    # API RESTful em Node.js, Express e SQLite
 ├── frontend/   # Interface SPA em Vue.js 3 e Vite
 └── README.md
@@ -45,7 +45,7 @@ Pré-requisitos
 - Gerenciador de pacotes npm (incluso com o Node.js).
 
 1. Executando o Backend
-A partir da raiz do projeto (desafio-tecnico), acesse a pasta backend, instale as dependências e inicie o servidor pelo terminal:
+A partir da raiz do projeto (case-desafio-tecnico-devpool), acesse a pasta backend, instale as dependências e inicie o servidor pelo terminal:
 
 # Entre na pasta do backend
 cd backend
@@ -60,7 +60,7 @@ O servidor estará rodando em http://localhost:3000. O arquivo do banco de dados
 
 2. Executando o Frontend
 
-Abra um novo terminal na raiz do projeto (desafio-tecnico), acesse a pasta frontend, instale as dependências e inicie a aplicação:
+Abra um novo terminal na raiz do projeto (case-desafio-tecnico-devpool), acesse a pasta frontend, instale as dependências e inicie a aplicação:
 
 # Entre na pasta do frontend
 cd frontend
